@@ -1,5 +1,6 @@
-// 1.
+'---------------------'
 // demo problem with using var
+'---------------------'
 
 function logVars() {
   var x = 1;
@@ -13,8 +14,9 @@ function logVars() {
   console.log(x);
 }
 
-// 2. 
+'---------------------'
 // fix with let
+'---------------------'
 
 function logVars() {
   var x = 1;
@@ -28,8 +30,9 @@ function logVars() {
   console.log(x);
 }
 
-// 3.
+'---------------------'
 // demo const can't be re-assigned
+'---------------------'
 
 function logVars() {
   const x = 1;
